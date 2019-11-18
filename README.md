@@ -30,4 +30,4 @@ RMAC requires Python3 and PyTorch.
 See the [CONTRIBUTING](CONTRIBUTING.md) file for how to help out.
 
 ## License
-RMAC is <YOUR LICENSE HERE> licensed, as found in the LICENSE file.
+RMAC is CC-by-NC licensed, as found in the LICENSE file.
